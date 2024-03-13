@@ -2,7 +2,7 @@ const BLOG = {
   title: '五星上将麦克阿象的笔记',
   author: '麦克阿象',
   email: 'https://t.me/CitizenScyu',
-  link: 'https://axiang.vercel.app',
+  link: 'https://scyu.live',
   description: '五星上将麦克阿象的笔记',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
