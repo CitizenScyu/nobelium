@@ -43,7 +43,7 @@ export default function Post (props) {
                 alt={BLOG.author}
                 width={24}
                 height={24}
-                src={favicon}
+                src={`https://github.com/CitizenScyu/nobelium/blob/main/public/favicon_.png?raw=true`}
                 className="rounded-full"
               />
               <p className="ml-2 md:block">{BLOG.author}</p>
