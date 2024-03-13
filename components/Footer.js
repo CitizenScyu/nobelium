@@ -62,6 +62,24 @@ const Footer = ({ fullWidth }) => {
     stroke-width="2"
     d="M20 12h4"
   />
+  <path
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+    d="M16 16h-4"
+  />
+  <path
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+    d="M8 16h4"
+  />
+  <path
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+    d="M12 20v-4"
+  />
 </svg>
 
       </a> 
